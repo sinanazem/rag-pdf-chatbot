@@ -10,9 +10,7 @@ Welcome to the RAG PDF Chatbot repository! This project demonstrates how to buil
 - [Usage](#usage)
 - [Configuration](#configuration)
 - [Technologies](#technologies)
-- [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Features
 
@@ -93,16 +91,6 @@ This project is built using the following technologies:
 - **[Streamlit](https://streamlit.io/)**: A framework for creating interactive web applications.
 - **[MongoDB](https://www.mongodb.com/)**: A NoSQL database for data storage.
 - **[Docker](https://www.docker.com/)**: A platform for containerized applications.
-
-## Contributing
-
-We welcome contributions to enhance the RAG PDF Chatbot! To contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a Pull Request.
 
 ## License
 
