@@ -2,9 +2,11 @@
 <div>
     <img src="https://github.com/sinanazem/rag-pdf-chatbot/blob/main/img/Chat%20bot-cuate.png"  width="300" align="left" hspace="10">
     
-Welcome to the RAG PDF Chatbot repository! This project demonstrates how to build a chatbot capable of interacting with PDF documents using Retrieval-Augmented Generation (RAG). The chatbot leverages LangChain, Streamlit, MongoDB, and Docker to provide an interactive and efficient user experience.
+Welcome to the RAG PDF Chatbot repository!<br><br>
+This project demonstrates how to build a chatbot capable of interacting with PDF documents using Retrieval-Augmented Generation (RAG).<br><br>
+The chatbot leverages LangChain, Streamlit, MongoDB, and Docker to provide an interactive and efficient user experience.
 </div>
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br>
 
 ## Table of Contents
 
