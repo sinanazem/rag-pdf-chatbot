@@ -10,7 +10,6 @@ from langchain_community.chat_models import ChatOllama
 from langchain_core.runnables import RunnablePassthrough
 from langchain.retrievers.multi_query import MultiQueryRetriever
 
-
 class PDFChatbot:
     def __init__(self, local_path: str, model: str = "llama3"):
         self.local_path = local_path
