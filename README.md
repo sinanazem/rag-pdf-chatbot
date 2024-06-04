@@ -33,7 +33,7 @@ To get started with the RAG PDF Chatbot, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/rag-pdf-chatbot.git
+    git clone https://github.com/sinanazem/rag-pdf-chatbot.git
     cd rag-pdf-chatbot
     ```
 
