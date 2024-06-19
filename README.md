@@ -13,9 +13,6 @@ The chatbot leverages LangChain, Streamlit, MongoDB, and Docker to provide an in
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Configuration](#configuration)
-- [Technologies](#technologies)
-- [License](#license)
 
 ## Features
 
