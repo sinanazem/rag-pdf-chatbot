@@ -50,7 +50,7 @@ To get started with the RAG PDF Chatbot, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/rag-pdf-chatbot.git
+    git clone https://github.com/sinanazem/rag-pdf-chatbot.git
     cd rag-pdf-chatbot
     ```
 
@@ -79,25 +79,4 @@ This will start a Streamlit server, and you can interact with the chatbot throug
 ### Docker Usage
 
 To run the chatbot using Docker, ensure the container is running (see Docker Installation). Access the chatbot through your web browser at `http://localhost:8501`.
-
-## Configuration
-
-Ensure you have the correct configuration for MongoDB and other settings. Update the `config.py` file with your MongoDB connection string and other necessary configurations.
-
-```python
-MONGO_URI = "your_mongodb_connection_string"
-```
-
-## Technologies
-
-This project is built using the following technologies:
-
-- **[LangChain](https://github.com/langchain/langchain)**: A framework for building applications with LLMs.
-- **[Streamlit](https://streamlit.io/)**: A framework for creating interactive web applications.
-- **[MongoDB](https://www.mongodb.com/)**: A NoSQL database for data storage.
-- **[Docker](https://www.docker.com/)**: A platform for containerized applications.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
